@@ -1,0 +1,16 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightpink;
+    font-size: 24px;
+}
+
+.two {
+    color: blue;
+    font-size: 36px;
+}
+
+.three {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
